@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shreya Mohanty</h1>
-<h3 >Just a university student pursuing Electronics and Communication Engineering. Interested in random programming things. Until next time:))</h3><br>
-
-- Creating Bugs since 2021
+<h3 align="center">Just a university student pursuing Electronics and Communication Engineering. Interested in random programming things. Until next time:))</h3>
 
 - 🌱 I’m currently learning **some Web 3 stuffs**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub) (Uploading in process..)
+- 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
 - 📄 Know a bit about me (for now) [https://shreyapmohanty6.github.io/PortfolioWeb/](https://shreyapmohanty6.github.io/PortfolioWeb/)
 
 - ⚡ Fun fact **Your brain is constantly eating itself. So don't let you thoughts eat the rest.**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shreya mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya mohanty" height="30" width="40" /></a>
+<a href="https://medium.com/@shreyamohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shreyamohanty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyapmohanty6&show_icons=true&locale=en" alt="shreyapmohanty6" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyapmohanty6&" alt="shreyapmohanty6" /></p>
-
