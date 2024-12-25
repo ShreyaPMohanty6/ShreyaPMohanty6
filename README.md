@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shreya Mohanty</h1>
 <h3 align="center">Just a university student pursuing Electronics and Communication Engineering. Interested in random programming things. Until next time:))</h3>
 
+- Creating bugs since 2021
+
 - 🌱 I’m currently learning **some Web 3 stuffs**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at [GitHub](GitHub) (Upload in process..)
 
 - 📄 Know a bit about me (for now) [https://shreyapmohanty6.github.io/PortfolioWeb/](https://shreyapmohanty6.github.io/PortfolioWeb/)
 
