@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **some Web 3 stuffs**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at [GitHub](GitHub) (Uploading in process..)
 
 - 📄 Know a bit about me (for now) [https://shreyapmohanty6.github.io/PortfolioWeb/](https://shreyapmohanty6.github.io/PortfolioWeb/)
 
